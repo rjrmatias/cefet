@@ -1,5 +1,4 @@
-# Anotações Gene Ontology da bactéria 
-# Pseudomonas aeruginosa CCHB4851
+# Anotações Gene Ontology da bactéria Pseudomonas aeruginosa CCHB4851
 
 Os arquivos aqui disponíveis se referem as anotações por ontologia da bactéria Pseudomonas aeruginosa CCBH4851, acrescida de dados de similaridade semântica. O objetido deste projeto é apoiar os estudos sobre esta bactéria, 
 conduzidos pela Fundação Fiocruz, que disponibiliza o proteoma publicamente no endereço:
