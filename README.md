@@ -30,12 +30,12 @@ BLAST entre o proteoma da bactéria Pseudomonas aeruginosa CCBH4851 e os proteom
 
 ### 4-ccbh_modelos_go
 
-anotações Gene Ontology obtidas via processamento Blast2GO, com base no proteoma da bactéria Pseudomonas aeruginosa CCBH4851, com base nos proteomas das bactérias E.coli e Pseudomonas aeruginosa PAO1.
+anotações Gene Ontology obtidas via processamento Blast2GO, do proteoma da bactéria Pseudomonas aeruginosa CCBH4851, com base nos proteomas das bactérias E.coli e Pseudomonas aeruginosa PAO1.
 
 ### 5-result-similaridade
 
-indicadores de similaridade semântica, obtidos a partir da ferramenta GOGO, considerando o proteoma da bactéria Pseudomonas aeruginosa CCBH4851, com base nos proteomas das bactérias E.coli e Pseudomonas aeruginosa PAO1.
-
+indicadores de similaridade semântica, obtidos a partir da ferramenta GOGO, considerando as anotações Gene Ontology do proteoma da bactéria Pseudomonas aeruginosa CCBH4851, com base nas anotações Gene Ontology dos proteomas das bactérias E.coli e Pseudomonas aeruginosa PAO1.
+ 
 fonte: http://dna.cs.miami.edu/GOGO/
 
 
